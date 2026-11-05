@@ -1,0 +1,15 @@
+.DS_Store
+*.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz
+.env
+credentials*
+secrets*
+
+# Keep personal and target-specific application artifacts out of this repository.
+application-prep/
+application-writing/
+output/
+tmp/

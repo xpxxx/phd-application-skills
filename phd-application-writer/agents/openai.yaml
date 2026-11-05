@@ -1,0 +1,7 @@
+interface:
+  display_name: "PhD Application Writer"
+  short_description: "Evidence-bound PhD documents in Overleaf"
+  default_prompt: "Use $phd-application-writer to confirm unresolved evidence and build my target-specific PhD application as an Overleaf project."
+
+policy:
+  allow_implicit_invocation: true
